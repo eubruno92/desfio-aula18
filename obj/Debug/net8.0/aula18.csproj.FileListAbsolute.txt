@@ -1,0 +1,14 @@
+C:\Users\Bruno Costa\projects\lab-prog\aula18\bin\Debug\net8.0\aula18.exe
+C:\Users\Bruno Costa\projects\lab-prog\aula18\bin\Debug\net8.0\aula18.deps.json
+C:\Users\Bruno Costa\projects\lab-prog\aula18\bin\Debug\net8.0\aula18.runtimeconfig.json
+C:\Users\Bruno Costa\projects\lab-prog\aula18\bin\Debug\net8.0\aula18.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula18\bin\Debug\net8.0\aula18.pdb
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.AssemblyInfoInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.AssemblyInfo.cs
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\refint\aula18.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.pdb
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\aula18.genruntimeconfig.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula18\obj\Debug\net8.0\ref\aula18.dll
